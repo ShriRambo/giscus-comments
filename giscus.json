@@ -6,5 +6,5 @@
     "https?://shrirambo.github.io/\N+",
     "http://localhost:[0-9]+"
   ],
-  "defaultCommentOrder": "oldest"
+  "defaultCommentOrder": "newest"
 }
